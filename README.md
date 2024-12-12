@@ -11,3 +11,12 @@ CS-Elite-2
 
 # Topics
 Terminal &amp; Git,GitHub
+
+# Certifications
+1.HTML5
+2.CSS
+3.JS
+4.SQL
+5.JAVA
+6.REACT.js
+7.NODE.js
