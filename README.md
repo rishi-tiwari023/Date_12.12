@@ -20,3 +20,6 @@ Terminal &amp; Git,GitHub
 5.JAVA
 6.REACT.js
 7.NODE.js
+
+# Mastery
+C++,DSA
